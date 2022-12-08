@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hemlock Cliffs (LOOP).wav-7de03926a7561af1925f82c8f93b9fb6.sample"
+
+[deps]
+
+source_file="res://Resources/Audio/Hemlock Cliffs (LOOP).wav"
+dest_files=[ "res://.import/Hemlock Cliffs (LOOP).wav-7de03926a7561af1925f82c8f93b9fb6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

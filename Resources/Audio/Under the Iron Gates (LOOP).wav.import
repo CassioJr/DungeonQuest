@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Under the Iron Gates (LOOP).wav-2b6e0336c3c2246bd65e022232c1059c.sample"
+
+[deps]
+
+source_file="res://Resources/Audio/Under the Iron Gates (LOOP).wav"
+dest_files=[ "res://.import/Under the Iron Gates (LOOP).wav-2b6e0336c3c2246bd65e022232c1059c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
